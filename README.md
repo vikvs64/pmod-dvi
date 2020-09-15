@@ -1,1 +1,1 @@
-# pmod-dvi
+# pmod-dvi open source hardware project
